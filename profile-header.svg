@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="370" viewBox="0 0 960 370" role="img" aria-labelledby="title desc">
-<title id="title">谢以波 · Nexorithium</title><desc id="desc">AI、产品与独立开发。Making machines think. Making ideas executable. 访问 nexorithium.github.io。</desc>
+<title id="title">Nexorithium</title><desc id="desc">AI、产品与独立开发。Making machines think. Making ideas executable. 访问 nexorithium.github.io。</desc>
 <defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#323833" stroke-width=".6"/></pattern></defs>
 <rect x="1" y="1" width="958" height="368" rx="18" fill="#191e1b" stroke="#3b453d"/>
 <path d="M1 53H959" stroke="#3b453d"/>
 <circle cx="28" cy="28" r="6" fill="#dd6b45"/><circle cx="49" cy="28" r="6" fill="#c5ac75"/><circle cx="70" cy="28" r="6" fill="#8b9c83"/>
 <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace"><text x="103" y="33" fill="#a9b3a8" font-size="12" letter-spacing="1">nexorithium / personal-space</text><text x="915" y="33" fill="#a9b3a8" text-anchor="end" font-size="11">HELLO, WORLD.</text>
 <text x="39" y="93" fill="#ef936d" font-size="14">$ whoami</text>
-<text x="39" y="139" fill="#f4f3eb" font-size="31" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">谢以波 <tspan fill="#a9b3a8" font-size="23">/ Nexorithium</tspan></text>
+<text x="39" y="139" fill="#f4f3eb" font-size="31" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif">Nexorithium</text>
 <text x="39" y="186" fill="#ef936d" font-size="14">$ focus</text>
 <text x="39" y="216" fill="#dde2d8" font-size="15">AI products · Agent workflows</text><text x="39" y="244" fill="#dde2d8" font-size="15">Independent building · Learning in public</text>
 <text x="39" y="293" fill="#ef936d" font-size="14">$ open nexorithium.github.io</text>

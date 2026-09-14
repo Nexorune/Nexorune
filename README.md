@@ -1,7 +1,7 @@
-# Hi, I'm 谢以波 👋
+# Hi, I'm Nexorithium 👋
 
 <a href="https://nexorithium.github.io/">
-  <img src="./profile-header.svg" width="100%" alt="谢以波 · Nexorithium — AI、产品与独立开发。点击访问我的个人网站。" />
+  <img src="./profile-header.svg" width="100%" alt="Nexorithium — AI、产品与独立开发。点击访问我的个人网站。" />
 </a>
 <p align="center"><sub>点击终端卡片，进入我的个人网站 ↗</sub></p>
 
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>Stay curious. Keep building. · 谢以波 / Nexorithium</sub>
+<sub>Stay curious. Keep building. · Nexorithium</sub>
