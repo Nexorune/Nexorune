@@ -1,6 +1,6 @@
 # Hi, I'm Nexorithium 👋
 
-<a href="https://nexorithium.github.io/">
+<a href="https://nexorune.github.io/nexorithium.github.io/">
   <img src="./profile-header.svg" width="100%" alt="Nexorithium — AI、产品与独立开发。点击访问我的个人网站。" />
 </a>
 <p align="center"><sub>点击终端卡片，进入我的个人网站 ↗</sub></p>
@@ -11,7 +11,7 @@
 
 **Making machines think. Making ideas executable.**
 
-[个人网站 ↗](https://nexorithium.github.io/) · [全部项目 ↗](https://github.com/nexorithium?tab=repositories)
+[个人网站 ↗](https://nexorune.github.io/nexorithium.github.io/) · [全部项目 ↗](https://github.com/Nexorune?tab=repositories)
 
 ---
 
@@ -19,15 +19,15 @@
 
 | 项目 | 在做什么 |
 | :--- | :--- |
-| [**Feishu Note Organizer**](https://github.com/nexorithium/codex-feishu-note-organizer) | 将课程转写、会议记录与学习资料整理为结构清晰、重点突出的中文笔记。`Codex Skill` |
-| [**Product Evidence Deconstruction**](https://github.com/nexorithium/product-evidence-deconstruction) | 基于截图、网站或源代码拆解 AI 产品，生成证据可追溯的 HTML 报告。`Codex Skill` |
-| [**紫禁问迹**](https://github.com/nexorithium/zijincheng-ai-game) | 融合故宫建筑知识、环境解谜与 AI 史官对话的第一人称 3D 网页探索原型。`Prototype` |
-| [**此刻一页**](https://github.com/nexorithium/cike-yiye) | 结合古典文学原文、情境匹配与 AI 解读的中文阅读体验。`MVP` |
-| [**Personal Website**](https://github.com/nexorithium/nexorithium.github.io) | 收纳项目、文字与探索的个人空间，使用轻量静态页面搭建。`Web` |
+| [**Feishu Note Organizer**](https://github.com/Nexorune/codex-feishu-note-organizer) | 将课程转写、会议记录与学习资料整理为结构清晰、重点突出的中文笔记。`Codex Skill` |
+| [**Product Evidence Deconstruction**](https://github.com/Nexorune/product-evidence-deconstruction) | 基于截图、网站或源代码拆解 AI 产品，生成证据可追溯的 HTML 报告。`Codex Skill` |
+| [**紫禁问迹**](https://github.com/Nexorune/zijincheng-ai-game) | 融合故宫建筑知识、环境解谜与 AI 史官对话的第一人称 3D 网页探索原型。`Prototype` |
+| [**此刻一页**](https://github.com/Nexorune/cike-yiye) | 结合古典文学原文、情境匹配与 AI 解读的中文阅读体验。`MVP` |
+| [**Personal Website**](https://github.com/Nexorune/nexorithium.github.io) | 收纳项目、文字与探索的个人空间，使用轻量静态页面搭建。`Web` |
 
 ## Writing / 文章
 
-文章写在微信公众号，索引正在整理。后续会在[个人网站的 Writing 区](https://nexorithium.github.io/#writing)收录原文链接。
+文章写在微信公众号，索引正在整理。后续会在[个人网站的 Writing 区](https://nexorune.github.io/nexorithium.github.io/#writing)收录原文链接。
 
 ## About / 关于
 
